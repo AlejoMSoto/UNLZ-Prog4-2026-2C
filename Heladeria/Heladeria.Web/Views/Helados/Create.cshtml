@@ -1,0 +1,49 @@
+@model Heladeria.Web.Models.HeladoPrepararVM
+
+@{
+    ViewData["Title"] = ViewBag.Mensaje ?? "Preparar Helado";
+}
+
+<div class="container mt-4">
+    <h2>@ViewData["Title"]</h2>
+    <hr />
+
+    <div class="row">
+        <div class="col-md-6">
+            <form asp-action="Create" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                <div class="mb-3">
+                    <label asp-for="Sabor" class="form-label"></label>
+                    <select asp-for="Sabor" asp-items="Model.ListaSabores" class="form-select">
+                        <option value="">-- Seleccione un sabor --</option>
+                    </select>
+                    <span asp-validation-for="Sabor" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Tamanio" class="form-label"></label>
+                    <select asp-for="Tamanio" asp-items="Model.ListaTamanios" class="form-select">
+                        <option value="">-- Seleccione un tamaño --</option>
+                    </select>
+                    <span asp-validation-for="Tamanio" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Precio" class="form-label"></label>
+                    <input asp-for="Precio" class="form-control" type="number" step="0.01" />
+                    <span asp-validation-for="Precio" class="text-danger"></span>
+                </div>
+
+                <button type="submit" class="btn btn-success">Hecho</button>
+                <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

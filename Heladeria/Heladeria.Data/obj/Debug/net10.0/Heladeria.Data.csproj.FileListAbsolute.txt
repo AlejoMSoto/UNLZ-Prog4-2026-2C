@@ -1,0 +1,27 @@
+C:\Users\alejo\source\repos\Heladeria\Heladeria.Data\bin\Debug\net10.0\Heladeria.Data.deps.json
+C:\Users\alejo\source\repos\Heladeria\Heladeria.Data\bin\Debug\net10.0\Heladeria.Data.dll
+C:\Users\alejo\source\repos\Heladeria\Heladeria.Data\bin\Debug\net10.0\Heladeria.Data.pdb
+C:\Users\alejo\source\repos\Heladeria\Heladeria.Data\obj\Debug\net10.0\Heladeria.Data.csproj.AssemblyReference.cache
+C:\Users\alejo\source\repos\Heladeria\Heladeria.Data\obj\Debug\net10.0\Heladeria.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\source\repos\Heladeria\Heladeria.Data\obj\Debug\net10.0\Heladeria.Data.AssemblyInfoInputs.cache
+C:\Users\alejo\source\repos\Heladeria\Heladeria.Data\obj\Debug\net10.0\Heladeria.Data.AssemblyInfo.cs
+C:\Users\alejo\source\repos\Heladeria\Heladeria.Data\obj\Debug\net10.0\Heladeria.Data.csproj.CoreCompileInputs.cache
+C:\Users\alejo\source\repos\Heladeria\Heladeria.Data\obj\Debug\net10.0\Heladeria.Data.dll
+C:\Users\alejo\source\repos\Heladeria\Heladeria.Data\obj\Debug\net10.0\refint\Heladeria.Data.dll
+C:\Users\alejo\source\repos\Heladeria\Heladeria.Data\obj\Debug\net10.0\Heladeria.Data.pdb
+C:\Users\alejo\source\repos\Heladeria\Heladeria.Data\obj\Debug\net10.0\ref\Heladeria.Data.dll
+C:\Users\alejo\source\repos\Heladeria\Heladeria.Data\obj\Debug\net10.0\Heladeri.AF761D1F.Up2Date
+C:\Users\alejo\OneDrive\Escritorio\TP-MVC-1 Milestone\Heladeria\Heladeria.Data\bin\Debug\net10.0\Heladeria.Data.deps.json
+C:\Users\alejo\OneDrive\Escritorio\TP-MVC-1 Milestone\Heladeria\Heladeria.Data\bin\Debug\net10.0\Heladeria.Data.dll
+C:\Users\alejo\OneDrive\Escritorio\TP-MVC-1 Milestone\Heladeria\Heladeria.Data\bin\Debug\net10.0\Heladeria.Data.pdb
+C:\Users\alejo\OneDrive\Escritorio\TP-MVC-1 Milestone\Heladeria\Heladeria.Data\obj\Debug\net10.0\Heladeria.Data.csproj.AssemblyReference.cache
+C:\Users\alejo\OneDrive\Escritorio\TP-MVC-1 Milestone\Heladeria\Heladeria.Data\obj\Debug\net10.0\Heladeria.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejo\OneDrive\Escritorio\TP-MVC-1 Milestone\Heladeria\Heladeria.Data\obj\Debug\net10.0\Heladeria.Data.AssemblyInfoInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\TP-MVC-1 Milestone\Heladeria\Heladeria.Data\obj\Debug\net10.0\Heladeria.Data.AssemblyInfo.cs
+C:\Users\alejo\OneDrive\Escritorio\TP-MVC-1 Milestone\Heladeria\Heladeria.Data\obj\Debug\net10.0\Heladeria.Data.csproj.CoreCompileInputs.cache
+C:\Users\alejo\OneDrive\Escritorio\TP-MVC-1 Milestone\Heladeria\Heladeria.Data\obj\Debug\net10.0\Heladeria.Data.sourcelink.json
+C:\Users\alejo\OneDrive\Escritorio\TP-MVC-1 Milestone\Heladeria\Heladeria.Data\obj\Debug\net10.0\Heladeria.Data.dll
+C:\Users\alejo\OneDrive\Escritorio\TP-MVC-1 Milestone\Heladeria\Heladeria.Data\obj\Debug\net10.0\refint\Heladeria.Data.dll
+C:\Users\alejo\OneDrive\Escritorio\TP-MVC-1 Milestone\Heladeria\Heladeria.Data\obj\Debug\net10.0\Heladeria.Data.pdb
+C:\Users\alejo\OneDrive\Escritorio\TP-MVC-1 Milestone\Heladeria\Heladeria.Data\obj\Debug\net10.0\ref\Heladeria.Data.dll
+C:\Users\alejo\OneDrive\Escritorio\TP-MVC-1 Milestone\Heladeria\Heladeria.Data\obj\Debug\net10.0\Heladeri.AF761D1F.Up2Date

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Heladeria.Data/Heladeria.Data.csproj" />
+  <Project Path="Heladeria.Web/Heladeria.Web.csproj" />
+</Solution>

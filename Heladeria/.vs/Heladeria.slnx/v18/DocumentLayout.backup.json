@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF6EAA-D506-00C0-E398-B9EA78023E0F}|Heladeria.Web\\Heladeria.Web.csproj|c:\\users\\alejo\\onedrive\\escritorio\\tp-mvc-1 milestone\\heladeria\\heladeria.web\\views\\helados\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7FF6EAA-D506-00C0-E398-B9EA78023E0F}|Heladeria.Web\\Heladeria.Web.csproj|solutionrelative:heladeria.web\\views\\helados\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF6EAA-D506-00C0-E398-B9EA78023E0F}|Heladeria.Web\\Heladeria.Web.csproj|c:\\users\\alejo\\onedrive\\escritorio\\tp-mvc-1 milestone\\heladeria\\heladeria.web\\views\\helados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7FF6EAA-D506-00C0-E398-B9EA78023E0F}|Heladeria.Web\\Heladeria.Web.csproj|solutionrelative:heladeria.web\\views\\helados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF6EAA-D506-00C0-E398-B9EA78023E0F}|Heladeria.Web\\Heladeria.Web.csproj|c:\\users\\alejo\\onedrive\\escritorio\\tp-mvc-1 milestone\\heladeria\\heladeria.web\\models\\heladovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FF6EAA-D506-00C0-E398-B9EA78023E0F}|Heladeria.Web\\Heladeria.Web.csproj|solutionrelative:heladeria.web\\models\\heladovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF6EAA-D506-00C0-E398-B9EA78023E0F}|Heladeria.Web\\Heladeria.Web.csproj|c:\\users\\alejo\\onedrive\\escritorio\\tp-mvc-1 milestone\\heladeria\\heladeria.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7FF6EAA-D506-00C0-E398-B9EA78023E0F}|Heladeria.Web\\Heladeria.Web.csproj|solutionrelative:heladeria.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF6EAA-D506-00C0-E398-B9EA78023E0F}|Heladeria.Web\\Heladeria.Web.csproj|c:\\users\\alejo\\onedrive\\escritorio\\tp-mvc-1 milestone\\heladeria\\heladeria.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7FF6EAA-D506-00C0-E398-B9EA78023E0F}|Heladeria.Web\\Heladeria.Web.csproj|solutionrelative:heladeria.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF6EAA-D506-00C0-E398-B9EA78023E0F}|Heladeria.Web\\Heladeria.Web.csproj|c:\\users\\alejo\\onedrive\\escritorio\\tp-mvc-1 milestone\\heladeria\\heladeria.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FF6EAA-D506-00C0-E398-B9EA78023E0F}|Heladeria.Web\\Heladeria.Web.csproj|solutionrelative:heladeria.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF6EAA-D506-00C0-E398-B9EA78023E0F}|Heladeria.Web\\Heladeria.Web.csproj|c:\\users\\alejo\\onedrive\\escritorio\\tp-mvc-1 milestone\\heladeria\\heladeria.web\\views\\helados\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7FF6EAA-D506-00C0-E398-B9EA78023E0F}|Heladeria.Web\\Heladeria.Web.csproj|solutionrelative:heladeria.web\\views\\helados\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF6EAA-D506-00C0-E398-B9EA78023E0F}|Heladeria.Web\\Heladeria.Web.csproj|c:\\users\\alejo\\onedrive\\escritorio\\tp-mvc-1 milestone\\heladeria\\heladeria.web\\views\\helados\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7FF6EAA-D506-00C0-E398-B9EA78023E0F}|Heladeria.Web\\Heladeria.Web.csproj|solutionrelative:heladeria.web\\views\\helados\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF6EAA-D506-00C0-E398-B9EA78023E0F}|Heladeria.Web\\Heladeria.Web.csproj|c:\\users\\alejo\\onedrive\\escritorio\\tp-mvc-1 milestone\\heladeria\\heladeria.web\\controllers\\heladoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FF6EAA-D506-00C0-E398-B9EA78023E0F}|Heladeria.Web\\Heladeria.Web.csproj|solutionrelative:heladeria.web\\controllers\\heladoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF6EAA-D506-00C0-E398-B9EA78023E0F}|Heladeria.Web\\Heladeria.Web.csproj|c:\\users\\alejo\\onedrive\\escritorio\\tp-mvc-1 milestone\\heladeria\\heladeria.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FF6EAA-D506-00C0-E398-B9EA78023E0F}|Heladeria.Web\\Heladeria.Web.csproj|solutionrelative:heladeria.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF6EAA-D506-00C0-E398-B9EA78023E0F}|Heladeria.Web\\Heladeria.Web.csproj|c:\\users\\alejo\\onedrive\\escritorio\\tp-mvc-1 milestone\\heladeria\\heladeria.web\\views\\helados\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7FF6EAA-D506-00C0-E398-B9EA78023E0F}|Heladeria.Web\\Heladeria.Web.csproj|solutionrelative:heladeria.web\\views\\helados\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B8A2E-3F88-3356-0E8B-50172FAC775D}|Heladeria.Data\\Heladeria.Data.csproj|c:\\users\\alejo\\onedrive\\escritorio\\tp-mvc-1 milestone\\heladeria\\heladeria.data\\repositorios\\heladorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B8A2E-3F88-3356-0E8B-50172FAC775D}|Heladeria.Data\\Heladeria.Data.csproj|solutionrelative:heladeria.data\\repositorios\\heladorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B8A2E-3F88-3356-0E8B-50172FAC775D}|Heladeria.Data\\Heladeria.Data.csproj|c:\\users\\alejo\\onedrive\\escritorio\\tp-mvc-1 milestone\\heladeria\\heladeria.data\\modelos\\helado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B8A2E-3F88-3356-0E8B-50172FAC775D}|Heladeria.Data\\Heladeria.Data.csproj|solutionrelative:heladeria.data\\modelos\\helado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B8A2E-3F88-3356-0E8B-50172FAC775D}|Heladeria.Data\\Heladeria.Data.csproj|c:\\users\\alejo\\onedrive\\escritorio\\tp-mvc-1 milestone\\heladeria\\heladeria.data\\inyecciones\\inyeccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B8A2E-3F88-3356-0E8B-50172FAC775D}|Heladeria.Data\\Heladeria.Data.csproj|solutionrelative:heladeria.data\\inyecciones\\inyeccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B8A2E-3F88-3356-0E8B-50172FAC775D}|Heladeria.Data\\Heladeria.Data.csproj|c:\\users\\alejo\\onedrive\\escritorio\\tp-mvc-1 milestone\\heladeria\\heladeria.data\\contexto\\heladocontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5B8A2E-3F88-3356-0E8B-50172FAC775D}|Heladeria.Data\\Heladeria.Data.csproj|solutionrelative:heladeria.data\\contexto\\heladocontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2033337944:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HeladoVM.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Web\\Models\\HeladoVM.cs",
+              "RelativeDocumentMoniker": "Heladeria.Web\\Models\\HeladoVM.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Web\\Models\\HeladoVM.cs",
+              "RelativeToolTip": "Heladeria.Web\\Models\\HeladoVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T06:36:10.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HeladoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Data\\Repositorios\\HeladoRepo.cs",
+              "RelativeDocumentMoniker": "Heladeria.Data\\Repositorios\\HeladoRepo.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Data\\Repositorios\\HeladoRepo.cs",
+              "RelativeToolTip": "Heladeria.Data\\Repositorios\\HeladoRepo.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwDkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T03:35:21.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HeladosController.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Web\\Controllers\\HeladosController.cs",
+              "RelativeDocumentMoniker": "Heladeria.Web\\Controllers\\HeladosController.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Web\\Controllers\\HeladosController.cs",
+              "RelativeToolTip": "Heladeria.Web\\Controllers\\HeladosController.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAuwJIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T06:35:28.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HeladoContexto.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Data\\Contexto\\HeladoContexto.cs",
+              "RelativeDocumentMoniker": "Heladeria.Data\\Contexto\\HeladoContexto.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Data\\Contexto\\HeladoContexto.cs",
+              "RelativeToolTip": "Heladeria.Data\\Contexto\\HeladoContexto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T02:26:16.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Inyeccion.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Data\\Inyecciones\\Inyeccion.cs",
+              "RelativeDocumentMoniker": "Heladeria.Data\\Inyecciones\\Inyeccion.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Data\\Inyecciones\\Inyeccion.cs",
+              "RelativeToolTip": "Heladeria.Data\\Inyecciones\\Inyeccion.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T03:32:20.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Web\\Views\\Helados\\Index.cshtml",
+              "RelativeDocumentMoniker": "Heladeria.Web\\Views\\Helados\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Web\\Views\\Helados\\Index.cshtml",
+              "RelativeToolTip": "Heladeria.Web\\Views\\Helados\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-11T20:47:13.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Web\\Views\\Helados\\Create.cshtml",
+              "RelativeDocumentMoniker": "Heladeria.Web\\Views\\Helados\\Create.cshtml",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Web\\Views\\Helados\\Create.cshtml",
+              "RelativeToolTip": "Heladeria.Web\\Views\\Helados\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-11T20:42:19.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Heladeria.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Heladeria.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-11T21:09:06.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Heladeria.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Heladeria.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T20:01:56.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Web\\Views\\Helados\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Heladeria.Web\\Views\\Helados\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Web\\Views\\Helados\\Delete.cshtml",
+              "RelativeToolTip": "Heladeria.Web\\Views\\Helados\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-11T21:34:07.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Helado.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Data\\Modelos\\Helado.cs",
+              "RelativeDocumentMoniker": "Heladeria.Data\\Modelos\\Helado.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Data\\Modelos\\Helado.cs",
+              "RelativeToolTip": "Heladeria.Data\\Modelos\\Helado.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T00:55:51.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Heladeria.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Web\\Program.cs",
+              "RelativeToolTip": "Heladeria.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T06:03:37.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Web\\Views\\Helados\\Details.cshtml",
+              "RelativeDocumentMoniker": "Heladeria.Web\\Views\\Helados\\Details.cshtml",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Web\\Views\\Helados\\Details.cshtml",
+              "RelativeToolTip": "Heladeria.Web\\Views\\Helados\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-11T20:45:43.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Web\\Views\\Helados\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Heladeria.Web\\Views\\Helados\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Web\\Views\\Helados\\Edit.cshtml",
+              "RelativeToolTip": "Heladeria.Web\\Views\\Helados\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-11T20:43:57.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Heladeria.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Escritorio\\TP-MVC-1 Milestone\\Heladeria\\Heladeria.Web\\appsettings.json",
+              "RelativeToolTip": "Heladeria.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-11T05:35:51.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

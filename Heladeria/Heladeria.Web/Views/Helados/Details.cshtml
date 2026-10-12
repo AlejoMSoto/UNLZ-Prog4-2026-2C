@@ -1,0 +1,30 @@
+@model Heladeria.Web.Models.HeladoVM
+
+@{
+    ViewData["Title"] = "Detalle del Helado";
+}
+
+<div class="container mt-4">
+    <h2>@ViewData["Title"]</h2>
+    <hr />
+
+    <div class="card shadow-sm" style="max-width: 500px;">
+        <div class="card-body">
+            <h4 class="card-title text-primary">Helado #@Model.Id</h4>
+            <dl class="row mt-3">
+                <dt class="col-sm-4">Sabor:</dt>
+                <dd class="col-sm-8">@Model.Sabor</dd>
+
+                <dt class="col-sm-4">Tamaño:</dt>
+                <dd class="col-sm-8">@Model.Tamanio</dd>
+
+                <dt class="col-sm-4">Precio:</dt>
+                <dd class="col-sm-8">$@Model.Precio.ToString("N2")</dd>
+            </dl>
+        </div>
+        <div class="card-footer bg-transparent">
+            <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Editar</a>
+            <a asp-action="Index" class="btn btn-secondary">Volver</a>
+        </div>
+    </div>
+</div>
