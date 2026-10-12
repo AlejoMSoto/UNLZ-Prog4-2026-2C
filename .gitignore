@@ -1,0 +1,12 @@
+## Carpetas de Visual Studio y compilación
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Archivos de caché y logs de bases de datos (opcional)
+*.log
+*.tmp
